@@ -1,0 +1,204 @@
+.azeret-mono-bg{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+*{
+    padding: 0;
+    margin: 0;
+    border: border-box;
+}
+
+
+.img{
+    max-height: 240;
+    max-width: 240.28;
+    
+
+    
+}
+.hading{
+    font-weight: 998;
+    font-size: 48px;
+    color:#0D1321 ;
+    
+
+}
+.descrpition{
+    font-weight: 842px;
+    font-size: 16px;
+    color: #0D1321;
+
+}
+.btn{
+    font-size: 20px;
+    font-weight: 196px;
+    color:#FFFFFF;
+    background-color:#0D1321;
+    padding: 21px 24px;
+    border-radius:8px;
+    
+
+}
+.bg{
+    display: flex;
+     justify-content: center;
+     flex-direction: column;
+     align-items: center;
+    background-image: url('../assets/Hero-bg.png');
+    height: 652px;
+    width: 1440;
+    
+}
+.bgc{
+    width: 900px;
+    text-align: center;
+}
+.heading{
+    font-size: 32px;
+    color: #0D1321;
+}
+.paragraph{
+    font-size: 16px;
+    margin-top: 7px;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+.t-heading{
+    font-size: 24px;
+    color: #0D1321;
+    margin-top: 20px;
+}
+.second-p{
+    font-size: 16px;
+    color: #0D1321;
+    
+    margin: 0;
+}
+.second-btn{
+   color: #0D1321;
+   background-color:white;
+   margin: 10px;
+   font-size: 20px;
+   padding: 12px 20px;
+   margin:0;
+   margin-top: 16px;
+
+
+}
+.second-img{
+    height: 240px;
+    width: 274.17px;
+}
+.second-sec{
+    display:flex;
+    justify-content:space-between;
+    margin-top: 20px;
+    padding: 48px 48px ;
+    margin: 50px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    
+}
+.jadu{
+    padding:48px;
+}
+    
+
+
+.second-sea{
+    display: flex;
+    justify-content: flex-start;
+    
+    
+    
+    
+
+}
+.second-sep{
+    display: flex;
+    justify-content: space-between;
+    padding: 48px 48px ;
+    margin-top: 10px;
+    padding: 48px 48px ;
+    margin: 50px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.bck{
+    background-color:#E7ECFF;
+    margin-top: 30px;
+    
+    
+}
+.youtube{
+    background-color: #FFFFFF;
+    gap: 20px;
+    
+    
+}
+.youtube01{
+     width:800px;
+     height: 900px;
+    border-radius: 16px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+   margin: 30PX;
+}
+.youtube{
+    display: flex;
+
+    justify-content: center;
+    
+flex-direction: column; 
+align-items: center;   
+}
+.html{
+    margin-top: 20px;
+    margin: 20px;
+  background-color: antiquewhite;
+  border-radius: 7px;
+  height: auto;
+  width: auto;
+}
+.headee{
+    font-size:24px;
+    
+}
+.learn{
+    text-decoration: underline;
+    font-size:16px;
+    font-weight:bold;
+}
+.css{
+    margin-top: 20px;
+    margin: 20px;
+  background-color:#ADC8F7;
+  border-radius: 7px;
+  height: auto;
+  width: auto;
+    
+}
+.java{
+    margin-top: 20px;
+    margin: 20px;
+  background-color:aliceblue;
+  border-radius: 7px;
+  height: auto;
+  width: auto;
+}
+.current-targets{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+
+}
